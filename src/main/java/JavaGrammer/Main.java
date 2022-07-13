@@ -1,11 +1,11 @@
 package JavaGrammer;
 
-public class Main {
-    public static void main(String[] args) {
-        AccessTest PersonB = new AccessTest(14,8);
-        PersonB.print();
-    }
-}
+//public class Main {
+//    public static void main(String[] args) {
+//        AccessTest PersonB = new AccessTest(14,8);
+//        PersonB.print();
+//    }
+//}
 //        Outer outer = new Outer();
 //        System.out.println("외부 클래스 사용하여 내부 클래스 기능 호출");
 //        outer.testClass();
