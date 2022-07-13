@@ -1,5 +1,6 @@
 package Practice;
 
+/*
 public class BindingTest {
     public static void main(String[] args) {
         Parent p = new Child();
@@ -26,4 +27,5 @@ class Child extends Parent{
         System.out.println("Child Method");
     }
 }
+*/
 

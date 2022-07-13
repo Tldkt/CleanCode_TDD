@@ -1,3 +1,4 @@
+/*
 package Practice;
 
 public class Polymorphism {
@@ -27,3 +28,4 @@ class GirlFriend extends Friend{
     }
 }
 
+*/

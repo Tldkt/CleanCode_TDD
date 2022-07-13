@@ -1,3 +1,4 @@
+/*
 package Practice;
 //메뉴 주문하기
 public class ExInterface {
@@ -37,4 +38,4 @@ class CafeOwner{
         System.out.println("딸기라뗴 나왔습니다");
     }
 
-}
+}*/

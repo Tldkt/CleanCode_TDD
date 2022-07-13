@@ -26,6 +26,7 @@ class Cat extends Animal{};
 
 //------------------------------------------
 
+/*
 class buyCoffeeTest{
     public static void main(String[] args) {
         Customer customer = new Customer();
@@ -71,4 +72,5 @@ class Customer{
     }
 
 }
+*/
 

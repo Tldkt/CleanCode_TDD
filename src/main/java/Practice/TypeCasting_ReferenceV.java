@@ -1,3 +1,4 @@
+/*
 package Practice;
 
 import org.w3c.dom.ls.LSOutput;
@@ -42,4 +43,4 @@ class MotorBike extends Vehicle{
     void performance(){
         System.out.println("그러다 다친다");
     }
-}
+}*/
