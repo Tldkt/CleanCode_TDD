@@ -1,4 +1,4 @@
-package JavaGrammer;
+/*package JavaGrammer;
 
 //Composite_Example
 public class Employee {
@@ -37,7 +37,7 @@ class Address {
         this.city = city;
         this.country = country;
     }
-}
+}*/
 
 //class Vehicle {
 //    void run() {

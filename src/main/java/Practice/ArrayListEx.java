@@ -1,6 +1,6 @@
-package Practice;
+/*package Practice;
 import java.util.*;
-/*
+
 public class ArrayListEx {
     public static void main(String[] args) {
         List<String> list = new ArrayList<String>();
@@ -27,6 +27,9 @@ public class ArrayListEx {
              str += iterator.next();
         }
         System.out.println(str);
+    }
+    static void print(ArrayList list1){
+        System.out.println(list1);
     }*/
         /*ArrayList list1 = new ArrayList(10);
         list1.add(new Integer(5));
@@ -48,10 +51,8 @@ public class ArrayListEx {
         System.out.println("list1:"+list1);
         System.out.println("list2:"+list2);
         System.out.println();
-    }
-    static void print(ArrayList list1){
-        System.out.println(list1);
-    }
-}*/
+    }*/
+
+
 
 
