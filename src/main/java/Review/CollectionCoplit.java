@@ -33,10 +33,11 @@ import java.util.Iterator;
         //System.out.println(cc.getNthElement(list,3));
         //System.out.println(cc.getLastE(list));
         //}
-/*        public String getLastE(ArrayList<String> list){
+/*       public String getLastE(ArrayList<String> list){
         int s = list.size();
         if(s == 0){return null;}
-        else{return list.get(s-1);}*/¿
+        else{return list.get(s-1);}
+        */
 /*    public Integer getNthElement(ArrayList<Integer> arrayList, int index) {
         int s = arrayList.size();
         if(s == 0 || s < index + 1){return null;}else{return arrayList.get(index);}
