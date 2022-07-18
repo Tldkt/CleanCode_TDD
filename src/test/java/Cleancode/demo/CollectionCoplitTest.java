@@ -4,6 +4,7 @@ import Review.CollectionCoplit;
 import junit.framework.TestCase;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /*
 public class CollectionCoplitTest extends TestCase {
@@ -14,6 +15,7 @@ public class CollectionCoplitTest extends TestCase {
     }
 }
 */
+/*
 class Solution {
     public static void main(String[] args) {
         Solution s = new Solution();
@@ -28,5 +30,6 @@ class Solution {
         list.add(5);
         return list;
         System.out.println(list.remove(0));;
+        Iterator
     }
-}
+}*/
