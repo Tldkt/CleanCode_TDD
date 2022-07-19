@@ -1,4 +1,4 @@
-package Cleancode.demo;
+/*package Cleancode.demo;
 
 import java.util.*;
 import java.util.stream.;
@@ -19,4 +19,4 @@ public class Solution {
                 .collect(Collectors.toList());
 
     }
-}
+}*/
